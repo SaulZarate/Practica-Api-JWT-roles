@@ -4,8 +4,8 @@
   "description": "Api Rest con Express, JWT, roles, cors, dotenv y Mongodb",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js",
-    "dev": "nodemon src/index.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "keywords": [
     "Express",

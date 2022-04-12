@@ -1,0 +1,4 @@
+200 => Ok
+204 => Update/Delete ok
+403 => Token JWT not found
+404 => Request not found
